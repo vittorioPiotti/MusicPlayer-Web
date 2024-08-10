@@ -6,9 +6,8 @@ Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaform
 
 ## Ispirazione
 
-La grafica del sito web è stata sviluppata ispirandosi all'interfaccia di iTunes, con l'obiettivo di creare un'esperienza utente simile. L'itento è stato quello di catturare un aspetto e una funzionalità simili senza replicare direttamente il design di iTunes.
+La grafica del sito web è stata sviluppata ispirandosi all'interfaccia di  [iTunes](https://www.apple.com/itunes/), con l'obiettivo di creare un'esperienza utente simile. L'itento è stato quello di catturare un aspetto e una funzionalità simili senza replicare direttamente il design di iTunes.
 
-Per maggiori informazioni su iTunes, puoi visitare il sito ufficiale di [Apple iTunes](https://www.apple.com/itunes/).
 
 
 ## Sito Web
