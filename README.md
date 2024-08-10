@@ -69,7 +69,6 @@ $ tree
     │   │   ├── MHome.php
     │   │   └── MMusic.php
     │   └── autoloader.php
-    ├── index.php
     └── index.php
 
 ```
