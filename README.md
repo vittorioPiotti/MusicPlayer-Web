@@ -79,7 +79,11 @@ $ tree
 
 ```
 
+## Implementazioni Future
 
+ - Sistema di autenticazione
+ - Cloud delle canzoni
+ - Interazione con likes e views
 
 
 ## Licenze
