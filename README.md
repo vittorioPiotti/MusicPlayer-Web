@@ -5,10 +5,10 @@ Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaform
 
 ## Casi d'uso
 
- - Home · visualizza barra di ricerca e swiper slides di brani e artisti
- - Artist · visualizza dati artista e swiper slides di album e singoli
- - Music · visualizza dati di album e singoli con tracklist e controllo audio
- - Navbar · visualizza menu interrattivo per gestire la riproduzione musicale
+ - Page Home · visualizza barra di ricerca e swiper slides di brani e artisti
+ - Page Artist · visualizza dati artista e swiper slides di album e singoli
+ - Page Music · visualizza dati di album e singoli con tracklist e controllo audio
+ - Page Navbar · visualizza menu interrattivo per gestire la riproduzione musicale
 
 
 ## Comptaibilità Browsers
