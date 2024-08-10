@@ -1,12 +1,23 @@
 # Music-Player
 
 
+Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaforma. 
+
+## Casi d'uso
+
+ - Home · visualizza barra di ricerca e swiper slides di brani e artisti
+ - Artist · visualizza dati artista e swiper slides di album e singoli
+ - Music · visualizza dati di album e singoli con tracklist e controllo audio
+ - Navbar · visualizza menu interrattivo per gestire la riproduzione musicale
 
 
 ## Comptaibilità Browsers
 
 | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/edge.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/firefox.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/opera.png" alt="Icona" width="50"/>|   <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/chrome.png"  width="50"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/safari.png"  width="50"/>|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
+
+
+
 
 
 ## Implementazioni Future
