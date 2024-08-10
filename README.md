@@ -24,19 +24,19 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 ## BETA
 
-**Implementato:**
+**Features:**
 
 - Riproduzione musicale
 - Ascolto in background
 - Interfaccia e routing system
 
-**Da Implementare:**
+**Coming soon:**
 
 - Sistema di autenticazione
 - Sistema di cloud dei brani
 - Interazioni tra utenti
 
-**Risolvere BUG:**
+**Current BUGs:**
 
 - delay al primo caricamento
 - errori nella gestione dell'audio dal menu di riproduzione in background
@@ -60,7 +60,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 
 
-## Implementazioni Future
+## Coming soon
 
  - Sistema di autenticazione
  - Cloud delle canzoni da link risorsa
