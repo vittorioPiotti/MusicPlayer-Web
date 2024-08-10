@@ -3,6 +3,15 @@
 
 
 
+## Browser compatibili
+
+Microsoft Edge
+Mozzilla Firefox
+Opera
+Chrome
+Safari
+
+
 ## Albero di Path Client
 
 ```bash
