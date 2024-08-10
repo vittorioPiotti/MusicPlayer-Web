@@ -9,13 +9,19 @@ Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaform
 
 - Riproduzione musicale
 - Ascolto in background
+- Interfaccia e routing system
 
 **Da Implementare:**
-- Ottimizzazione caricamenti
-- Funzionalità avanzate per interazioni tra utenti
+
 - Sistema di autenticazione
 - Sistema di cloud dei brani
-- Correzione dei BUG 
+- Interazioni tra utenti
+
+**Risolvere BUG:**
+
+- delay al primo caricamento
+- errori nella gestione dell'audio dal menu di riproduzione in background
+- errori nel caricamento deglia audio
 
 
 ## Casi d'uso
