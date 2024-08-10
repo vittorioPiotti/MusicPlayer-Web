@@ -12,6 +12,12 @@ Chrome
 Safari
 
 
+
+
+
+| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/edge.png" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/firefox.png" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/opera" alt="Icona" width="100%"/>|   <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/chrome.png"  width="100%"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/safari.png"  width="100%"/>|
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+
 ## Albero di Path Client
 
 ```bash
