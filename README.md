@@ -23,7 +23,9 @@ Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaform
 ## Implementazioni Future
 
  - Sistema di autenticazione
- - Cloud delle canzoni
+ - Cloud delle canzoni da link risorsa
+ - Pubblicazioni musicali pubbliche o private
+ - Profilo pubblico o privato
  - Interazione con likes e views
 
 
