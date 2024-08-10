@@ -3,32 +3,20 @@
 
 Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaforma. 
 
-## Stato
+## BETA
 
-**Descrizione:**  
-Music-Player è una piattaforma web per la riproduzione di musica che consente agli utenti di ascoltare le canzoni caricate sulla piattaforma. 
+**Implementato:**
 
-**Fase di Sviluppo:** Beta
+- Riproduzione musicale
+- Ascolto in background
 
-**Dettagli sulla Fase Beta:**
+**Da Implementare:**
+- Ottimizzazione caricamenti
+- Funzionalità avanzate per interazioni tra utenti
+- Sistema di autenticazione
+- Sistema di cloud dei brani
+- Correzione dei BUG 
 
-Attualmente, Music-Player è nella fase Beta del suo ciclo di sviluppo. Questo significa che il progetto è nella fase di test e ottimizzazione, e molte delle funzionalità principali sono implementate, ma potrebbero esserci ancora bug e aree da migliorare. La fase Beta ci permette di raccogliere feedback dagli utenti e di apportare modifiche significative per migliorare l'esperienza complessiva.
-
-**Cosa è incluso nella Beta:**
-- Funzionalità di base per la riproduzione di brani musicali
-- Caricamento e gestione delle canzoni
-- Interfaccia utente per la navigazione e la selezione della musica
-
-**Cosa ci aspettiamo di implementare:**
-- Miglioramenti delle prestazioni e della stabilità
-- Aggiunta di funzionalità avanzate come playlist personalizzate e raccomandazioni musicali
-- Correzione di bug segnalati dagli utenti durante la fase Beta
-
-**Come Partecipare:**
-Se desideri contribuire al progetto, puoi:
-- Segnalare bug e problemi tramite [issues](#)
-- Condividere suggerimenti e feedback
-- Partecipare al testing e alla revisione delle nuove funzionalità
 
 ## Casi d'uso
 
