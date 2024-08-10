@@ -3,6 +3,18 @@
 
 Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaforma. 
 
+
+## Ispirazione
+
+La grafica del sito web è stata sviluppata riproponendo l'interfaccia di iTunes
+
+
+
+## Sito Web
+
+Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/MusicPlayer/Client/index.php)
+
+
 ## BETA
 
 **Implementato:**
