@@ -1,3 +1,5 @@
+<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png" alt="Icona" width="100%"/>
+
 # Music-Player
 
 
