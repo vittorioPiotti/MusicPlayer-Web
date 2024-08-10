@@ -1,5 +1,52 @@
 # Music-Player
 
+
+## Albero di Path
+
+```bash
+$ tree
+.
+└── Client/
+    ├── assets/
+    │   ├── audios/
+    │   ├── images/
+    │   └── styles/
+    ├── config/
+    │   ├── data.php
+    │   ├── json.php
+    │   └── session.php
+    ├── dist/
+    │   ├── scripts
+    │   └── styles
+    ├── src/
+    │   ├── app/
+    │   │   ├── design/
+    │   │   │   ├── MySwiper.js
+    │   │   │   ├── SearchBar.js
+    │   │   │   └── TimingBar.js
+    │   │   ├── layout/
+    │   │   │   ├── Footer.js
+    │   │   │   ├── Header.js
+    │   │   │   ├── Main.js
+    │   │   │   └── Navbar.js
+    │   │   ├── pages/
+    │   │   │   ├── Artist.js
+    │   │   │   ├── Home.js
+    │   │   │   └── Music.js
+    │   │   ├── utilities/
+    │   │   │   ├── Animations.js
+    │   │   │   ├── Constants.js
+    │   │   │   └── WorkerManager.js
+    │   │   ├── workers/
+    │   │   │   ├── audioWorker.js
+    │   │   │   └── fetchWorker.js
+    │   │   └── App.js
+    │   └── entry.js
+    └── index.php
+
+```
+
+
 ## Licenze
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
