@@ -1,6 +1,8 @@
 # Music-Player
 
 
+
+
 ## Albero di Path Client
 
 ```bash
@@ -45,6 +47,34 @@ $ tree
     └── index.php
 
 ```
+
+
+
+## Albero di Path Server
+
+```bash
+$ tree
+.
+└── Server/
+    ├── src/
+    │   ├── controllers/
+    │   │   ├── CArtist.php
+    │   │   ├── CHome.php
+    │   │   └── CMusic.php
+    │   ├── foundations/
+    │   │   ├── FAPI.php
+    │   │   └── FDB.php
+    │   ├── models/
+    │   │   ├── MArtist.php
+    │   │   ├── MHome.php
+    │   │   └── MMusic.php
+    │   └── autoloader.php
+    ├── index.php
+    └── index.php
+
+```
+
+
 
 
 ## Licenze
