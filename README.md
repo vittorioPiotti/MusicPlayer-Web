@@ -14,6 +14,12 @@ La grafica del sito web è stata sviluppata ispirandosi all'interfaccia di  [iTu
 
 Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/MusicPlayer/Client/index.php)
 
+## Preview
+
+| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/fs.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/fs.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/fs.png" alt="Icona" width="50"/>|  
+| ------------ | ------------ | ------------ |
+
+
 
 ## BETA
 
