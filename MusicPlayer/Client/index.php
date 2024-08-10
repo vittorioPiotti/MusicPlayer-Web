@@ -40,27 +40,15 @@ Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MP · Home</title>
     <link rel="stylesheet" href="./dist/styles/swiper-bundle.min.css">
-    <link rel="stylesheet" href="./assets/styles/animations.css">
-    <link rel="stylesheet" href="./assets/styles/colors.css">
-    <link rel="stylesheet" href="./assets/styles/global.css">
-    <link rel="stylesheet" href="./assets/styles/mySwiper.css">
-    <link rel="stylesheet" href="./assets/styles/footer.css">
-    <link rel="stylesheet" href="./assets/styles/navbar.css">
-    <link rel="stylesheet" href="./assets/styles/artist.css">
-    <link rel="stylesheet" href="./assets/styles/home.css">
-    <link rel="stylesheet" href="./assets/styles/header.css">
-    <link rel="stylesheet" href="./assets/styles/music.css">
+    <link rel="stylesheet" href="./dist/styles/musicPlayer-bundle.min.css">
 </head>
 <body>
-
     <header id="header"></header>
     <nav class="nav-container" id="navbar"></nav>
     <main id="main"></main>
     <footer class="container-footer" id="footer"></footer>
-
     <script src="./dist/scripts/clipboard.min.js" defer></script>
     <script src="./dist/scripts/swiper-bundle.min.js" defer></script>
     <script src="./src/entry.js" type="module" defer></script>
-    
 </body>
 </html>
