@@ -88,91 +88,52 @@ class MHome {
 ";
 
 
-    private $queryGetAllHomeData = "
-    (
-        SELECT DISTINCT
-            a.IdArtista,
-            a.Nome AS ArtistName,
-            a.Immagine AS ArtistImage,
-            a.GenereMusicale AS ArtistGenre,
-            p.IdPubblicazione,
-            p.Immagine AS PublicationImage,
-            p.Titolo AS PublicationTitle,
-            p.GenereMusicale AS PublicationGenre,
-            CASE
-                WHEN EXISTS (
-                    SELECT 1 
-                    FROM MusicPlayer_Canzone c 
-                    WHERE c.IdPubblicazioneMusicale = p.IdPubblicazione 
-                    AND c.IsExplicit = 1
-                ) THEN 1
-                ELSE 0
-            END AS IsExplicit,
-            CASE
-                WHEN pc.SongCount > 1 THEN 1
-                ELSE 0
-            END AS IsAlbum
-        FROM 
-            MusicPlayer_Artista a
-            JOIN MusicPlayer_Pubblicazione p ON a.IdArtista = p.IdArtista
-            LEFT JOIN (
-                SELECT
-                    p.IdPubblicazione,
-                    COUNT(c.IdCanzone) AS SongCount
-                FROM
-                    MusicPlayer_Pubblicazione p
-                    LEFT JOIN MusicPlayer_Canzone c ON p.IdPubblicazione = c.IdPubblicazioneMusicale
-                GROUP BY
-                    p.IdPubblicazione
-            ) pc ON p.IdPubblicazione = pc.IdPubblicazione
-        WHERE 
-            pc.SongCount > 1
-        ORDER BY RAND()
-        LIMIT 10
-    )
-    UNION
-    (
-        SELECT DISTINCT
-            a.IdArtista,
-            a.Nome AS ArtistName,
-            a.Immagine AS ArtistImage,
-            a.GenereMusicale AS ArtistGenre,
-            p.IdPubblicazione,
-            p.Immagine AS PublicationImage,
-            p.Titolo AS PublicationTitle,
-            p.GenereMusicale AS PublicationGenre,
-            CASE
-                WHEN EXISTS (
-                    SELECT 1 
-                    FROM MusicPlayer_Canzone c 
-                    WHERE c.IdPubblicazioneMusicale = p.IdPubblicazione 
-                    AND c.IsExplicit = 1
-                ) THEN 1
-                ELSE 0
-            END AS IsExplicit,
-            CASE
-                WHEN pc.SongCount > 1 THEN 1
-                ELSE 0
-            END AS IsAlbum
-        FROM 
-            MusicPlayer_Artista a
-            JOIN MusicPlayer_Pubblicazione p ON a.IdArtista = p.IdArtista
-            LEFT JOIN (
-                SELECT
-                    p.IdPubblicazione,
-                    COUNT(c.IdCanzone) AS SongCount
-                FROM
-                    MusicPlayer_Pubblicazione p
-                    LEFT JOIN MusicPlayer_Canzone c ON p.IdPubblicazione = c.IdPubblicazioneMusicale
-                GROUP BY
-                    p.IdPubblicazione
-            ) pc ON p.IdPubblicazione = pc.IdPubblicazione
-        WHERE 
-            pc.SongCount = 1
-        ORDER BY RAND()
-        LIMIT 10
-    )
+
+private $queryGetAllHomeData = "
+    SELECT DISTINCT
+        a.IdArtista,
+        a.Nome AS ArtistName,
+        a.Immagine AS ArtistImage,
+        a.GenereMusicale AS ArtistGenre,
+        p.IdPubblicazione,
+        p.Immagine AS PublicationImage,
+        p.Titolo AS PublicationTitle,
+        p.GenereMusicale AS PublicationGenre,
+        CASE
+            WHEN EXISTS (
+                SELECT 1 
+                FROM MusicPlayer_Canzone c 
+                WHERE c.IdPubblicazioneMusicale = p.IdPubblicazione 
+                AND c.IsExplicit = 1
+            ) THEN 1
+            ELSE 0
+        END AS IsExplicit,
+        CASE
+            WHEN pc.SongCount > 1 THEN 1
+            ELSE 0
+        END AS IsAlbum
+    FROM 
+        MusicPlayer_Artista a
+    JOIN 
+        MusicPlayer_Pubblicazione p ON a.IdArtista = p.IdArtista
+    LEFT JOIN 
+        (
+            SELECT
+                p.IdPubblicazione,
+                COUNT(c.IdCanzone) AS SongCount
+            FROM
+                MusicPlayer_Pubblicazione p
+            LEFT JOIN 
+                MusicPlayer_Canzone c ON p.IdPubblicazione = c.IdPubblicazioneMusicale
+            GROUP BY
+                p.IdPubblicazione
+        ) pc ON p.IdPubblicazione = pc.IdPubblicazione
+    ORDER BY 
+        RAND()
+    LIMIT 10
 ";
+
+
 
 
 
