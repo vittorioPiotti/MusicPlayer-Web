@@ -3,6 +3,10 @@
 
 Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaforma. 
 
+## Stato
+
+Fase di sviluppo: Beta
+
 ## Casi d'uso
 
  - Page Home · visualizza barra di ricerca e swiper slides di brani e artisti
