@@ -30,13 +30,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 - Ascolto in background
 - Interfaccia e routing system
 
-**Coming soon:**
-
-- Sistema di autenticazione
-- Sistema di cloud dei brani
-- Interazioni tra utenti
-
-**Current BUGs:**
+**Unresolved BUGs:**
 
 - delay al primo caricamento
 - errori nella gestione dell'audio dal menu di riproduzione in background
