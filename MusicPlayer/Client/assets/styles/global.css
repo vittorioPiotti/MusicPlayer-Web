@@ -1,0 +1,141 @@
+
+/*
+ * Music Player v1.0.0 (https://github.com/vittorioPiotti/Music-Player/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Music-Player/blob/main/LICENSE.md)
+ */
+ 
+html {
+    scroll-behavior: smooth;
+  }
+body {
+    margin: 0; /* Rimuove i margini predefiniti */
+    background-color: var(--background-color);
+    transition: background-color 0.3s, color 0.3s;
+    user-select: none;
+}
+
+
+body[data-theme='dark'] {
+    --background-color:var(--background-color-dark);
+    --background-color-nav:var(--background-color-nav-dark);
+    --background-color-artist-header: var( --background-color-artist-header-dark);
+    --background-secondary-opacity: var(--background-secondary-opacity-dark);
+    --background-secondary-opacity-second:var(--background-secondary-opacity-second-dark);
+    --text-color: var( --text-color-dark);
+    --primary-color: var(--primary-color-dark);
+    --switch-background-color:var(--switch-background-color-dark) ;
+    --label-color: var(--label-color-dark);
+    --label-checked-color: var(--label-checked-color-dark);
+    --border-color: var(--border-color-dark);
+    --border-color-secondary: var(--border-color-secondary-dark);
+    --background-secondary: var(--background-secondary-dark);
+    --background-color-third: var(    --background-color-third-dark);
+    --text-color-default: var(--text-color-default-dark);
+    --text-color-default-info: var(--text-color-default-info-dark);
+    --border-color-third: var(--border-color-third-dark);
+    --background-color-artist-footer: var(--background-color-artist-footer-dark);
+    --background-color-artist-footer-second: var(--background-color-artist-footer-second-dark);
+    --primary-color: var(--primary-color-dark);
+    --background-hover-list: var(--background-hover-list-dark);
+    --bg-btn-music: var(--bg-btn-music-dark);
+}    
+
+
+.main-container{
+    width: 100%;
+    height: 100%;
+
+}
+
+
+.main-content{
+    max-width: 1100px;
+    margin: auto;
+   
+
+}
+
+
+
+
+
+/* Stile base per tutti i tooltip */
+.tooltip, .tooltip-right, .tooltip-right-second, .tooltip-bottom {
+    position: absolute;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    visibility: hidden;
+    width: 80px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    z-index: 600;
+    font-family: Arial;
+    text-align: center;
+}
+
+
+
+/* Specifiche posizioni per ogni tooltip */
+.tooltip {
+    right: 5px;
+    bottom: 60px;
+}
+
+.tooltip-right {
+    right: 60px;
+    bottom: 15px;
+}
+
+.tooltip-right-second {
+    right: 75px;
+    bottom: 8px;
+}
+
+.tooltip-bottom {
+    right: -10px;
+    bottom: -40px;
+}
+
+/* Stile per la punta del tooltip */
+.tooltip::after, .tooltip-right::after, .tooltip-right-second::after, .tooltip-bottom::after {
+    content: '';
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+}
+
+/* Specifiche per la punta del tooltip */
+.tooltip::after {
+    top: 100%; /* Posiziona la punta sotto il tooltip */
+    left: 75%; /* Sposta la punta verso destra */
+    margin-left: -5px; /* Centra la punta rispetto alla sinistra */
+    border-color: var(--primary-color) transparent transparent transparent;
+}
+
+.tooltip-right::after, .tooltip-right-second::after {
+    top: 50%; /* Centra la punta verticalmente */
+    left: 100%; /* Posiziona la punta a sinistra del tooltip */
+    margin-top: -5px; /* Centra la punta rispetto alla metà verticale */
+    border-color: transparent transparent transparent var(--primary-color);
+}
+
+.tooltip-bottom::after {
+    top: -10px; /* Posiziona la punta in alto */
+    left: 50%; /* Centra la punta orizzontalmente */
+    margin-left: 5px; /* Centra la punta orizzontalmente */
+    border-color: transparent transparent var(--primary-color) transparent;
+}
+
+
+/* Mostra il tooltip quando visibile */
+.tooltip-visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+

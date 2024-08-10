@@ -1,0 +1,25 @@
+
+/*
+ * Music Player v1.0.0 (https://github.com/vittorioPiotti/Music-Player/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Music-Player/blob/main/LICENSE.md)
+ */
+ 
+ 
+ .brand-container {
+    max-width: 1100px;
+    margin: auto;
+}
+.brand {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-weight: 900;
+    color: var(--primary-color);
+    font-size: 24px;
+    margin-left: 20px;
+    font-family: Arial;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    cursor: default;
+}

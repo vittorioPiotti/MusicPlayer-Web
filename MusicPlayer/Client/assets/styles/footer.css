@@ -1,0 +1,194 @@
+
+/*
+ * Music Player v1.0.0 (https://github.com/vittorioPiotti/Music-Player/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Music-Player/blob/main/LICENSE.md)
+ */
+ 
+ .footer-spacer{
+    width:100%;
+    height:70px;
+}
+.container-footer{
+
+    margin: auto;
+    max-width: 1100px;
+
+    
+}
+.footer{
+    display: flex;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+
+    position: sticky;
+
+
+}
+
+.inner-footer{
+    width: 100%;
+    height: 100px;
+    margin-top:75px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: var(--border-color-secondary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.footer-start{
+    cursor: default;
+width: 130px;
+color:#8e8e8e;
+font-size: 16px;
+font-family: Arial;
+
+
+}
+
+.footer-start-second{
+    width: 120px;
+
+    font-family: Arial;
+    display: none;
+
+
+}
+
+
+.footer-copyright{
+    color:#8e8e8e;
+    font-size: 16px;
+    cursor: default;
+
+
+}
+
+.footer-copyright-second{
+    color:#8e8e8e;
+    font-size: 16px;
+    font-family: Arial;
+    cursor: default;
+    margin-left:0px;
+    padding-left:0px;
+    flex:1;
+    display:none;
+}
+
+.footer-brand{
+    color:var(--primary-color);
+    font-size: 18px;
+    font-weight:900;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+.footer-end{
+    width: 130px;
+    font-size: 18px;
+}
+
+.footer-center{
+
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-weight:900;
+    color:var(--primary-color);
+    font-size: 18px;
+    font-family: Arial;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+.toggle-container {
+    display: inline-block;
+    position: relative;
+    border: 2px solid var(--primary-color);
+    border-radius: 25px;
+    overflow: hidden;
+    height: 25px;
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.toggle-container input[type="radio"] {
+    display: none;
+}
+
+.toggle-container label {
+    font-size: 16px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: var(--primary-color);
+    font-weight: bold;
+    position: relative;
+    z-index: 1;
+    font-family: Arial;
+    font-weight: 100;
+}
+
+.toggle-container .switch {
+    position: absolute;
+    top: 2px;
+    bottom: 2px;
+    left: 2px;
+    width: calc(50% - 4px);
+    background-color: var(--primary-color);
+    border-radius: 23px;
+    transition: 0.3s ease;
+}
+
+#light:checked ~ .switch {
+    left: 2px;
+}
+
+#dark:checked ~ .switch {
+    left: calc(50% + 2px);
+}
+
+#light:checked + label[for="light"],
+#dark:checked + label[for="dark"] {
+    color: white;
+}
+
+
+@media (max-width: 575.98px) {
+    .footer-start {
+    display: none;
+    }
+    .footer-center{
+        display: none;
+    }
+    .footer-start-second {
+        display: block;
+    }
+
+    .footer-copyright{
+        display:none;
+    }
+
+    .footer-copyright-second{
+          display: flex;
+        justify-content: start; 
+        align-items: center;
+    }
+
+}

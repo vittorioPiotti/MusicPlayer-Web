@@ -1,0 +1,248 @@
+
+/*
+ * Music Player v1.0.0 (https://github.com/vittorioPiotti/Music-Player/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Music-Player/blob/main/LICENSE.md)
+ */
+
+.icon-warning-response{
+    margin:auto;
+    margin-bottom:50px; 
+    margin-top:70px;
+
+
+}
+
+.slides-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.slideshow-container {
+    width: 100%;
+    margin-right: 20px;
+    margin-left: 20px;
+    overflow: hidden;
+    position: relative;
+}
+.container-swiper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.container-slide{
+    width: 100%;
+    height: 100%;
+}
+.album-img {
+    width: 90%;
+    height: 0;
+    padding-top: 90%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 7px;
+    margin: auto;
+    position:relative;
+}
+.nome-album{
+    color:var(--text-color-default);
+  
+    font-size: 18px;
+    font-family: Arial;
+    cursor: default;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+    .nome-album:hover{
+        text-decoration:underline;
+    }
+    .info-album:hover{
+        text-decoration:underline;  
+    }
+
+
+
+
+
+
+.info-album{
+    color: var(--text-color-default-info);
+    font-size: 18px;
+    font-family: Arial;
+    cursor: default;
+}
+.container-info{
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.artist-img{
+    position:relative;
+    width: 90%;
+    height: 0;
+    padding-top: 90%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin: auto;
+}
+    .explicit-container{
+
+        position:absolute;
+        left:10px;
+        top:10px;
+    
+    }
+
+  .overlay-container-img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: var(--background-secondary-opacity);
+        left: 0px;
+        top: 0px;
+        border-radius: 7px;
+        opacity: 0; 
+        transition: opacity 0.3s ease-in-out; 
+        z-index: 300;
+    }
+
+  
+
+      .overlay-container-img-second{
+       position:absolute;
+       width:100%;
+       height:100%;
+        left: 0px;
+        top: 0px;
+        border-radius: 7px;
+       
+        z-index:500;
+        opacity: 0; 
+        transition: opacity 0.3s ease-in-out; 
+    }
+
+  
+      
+     .btn-overlay-img-left{
+            position:absolute;
+        width:40px;
+        height:40px;
+        background-color:var(--background-secondary-opacity-second);
+        border-radius:50%;
+        left:10px;
+        bottom:10px;
+      
+        
+
+     }
+
+      .btn-overlay-img-left-svg{
+        position:absolute;
+        width:40px;
+        height:40px;
+        border-radius:50%;
+        left:11.5px;
+        bottom:10px;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        cursor:pointer;
+
+     }
+
+                .btn-overlay-img-right-svg{
+                    cursor:pointer;
+        position:absolute;
+        width:40px;
+        height:40px;
+        border-radius:50%;
+        right: 11px;
+        bottom:10px;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+
+     }
+
+
+      .btn-overlay-img-right{
+        position:absolute;
+        width:40px;
+        height:40px;
+         background-color:var(--background-secondary-opacity-second);
+        border-radius:50%;
+
+        right:10px;
+        bottom:10px;
+         display:flex;
+        justify-content:center;
+        align-items:center;
+
+     }
+
+
+ 
+    .album-img:hover .overlay-container-img {
+        display: block;
+         opacity: 1; 
+    }   
+     .album-img:hover .overlay-container-img-second {
+        display: block;
+         opacity: 1;
+    }   
+
+
+    
+
+
+    .songs{
+    font-weight:900;
+    color:var(--text-color-default);
+    font-size: 24px;
+    font-family: Arial;
+    margin-top:40px;
+    margin-left: 20px;
+    cursor: default;
+}
+
+.spinner {
+    margin:auto;
+    margin-top:65px;
+    margin-bottom:60px;
+}
+
+
+
+@media (max-width: 575.98px) {
+
+    .nome-album:hover{
+        text-decoration:none;
+    }
+    .info-album:hover{
+        text-decoration:none;  
+    }
+
+     .album-img:hover .overlay-container-img {
+        display: none;
+    }   
+     .album-img:hover .overlay-container-img-second {
+        display: none;
+    }   
+
+}

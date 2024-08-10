@@ -1,0 +1,318 @@
+
+
+/*
+ * Music Player v1.0.0 (https://github.com/vittorioPiotti/Music-Player/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Music-Player/blob/main/LICENSE.md)
+ */
+ 
+.app-container-info{
+
+    width:100%;
+    height:100%;
+
+}
+
+.artist-header {
+width: 100%;
+height: 400px;
+background-color: var(--background-color-artist-header);
+position: relative;
+}
+
+.artist-inner-header {
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center; /* Add this line */
+justify-content: center; /* Ensure this line is present */
+
+
+}
+
+.artist-image {
+width: 180px;
+height: 180px;
+background-size: cover;
+background-repeat: no-repeat;
+border-radius: 50%;
+position: relative;
+
+}
+
+
+
+.artist-name-container{
+background-color: transparent;
+position: absolute;
+bottom:0px;
+width:100%;
+
+}
+
+
+
+.inner-artist-name-container{
+width:100%;
+
+margin: auto;
+display: flex;
+justify-content: start;
+align-items: center;
+
+
+
+}
+
+
+
+.outer-artist-name-container{
+width:100%;
+max-width: 1100px;
+margin: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-bottom: 15px;
+}
+
+
+.artist-icon-title{
+padding-left: 20px;
+
+}
+.artist-name-title{
+cursor:default;
+font-weight:900;
+color:var(--text-color-default);
+font-size: 29px;
+
+font-family: Arial;
+margin:0px;
+padding:0px;
+padding-left: 10px;
+
+
+}
+.play-icon-artist{
+background: radial-gradient(circle, white 50%, var(--primary-color) 50%);
+
+border-radius: 50%;
+cursor: pointer;
+}
+.artist-icon-title-right{
+padding-right: 20px;
+display: none;
+
+}
+
+
+
+
+.share-icon-artist{
+color: white;
+background-color: var(--primary-color) ;
+padding:7px;
+border-radius: 7px;
+cursor:pointer;
+
+
+}
+
+.share-artist-btn-container{
+    position:relative;
+}
+
+.overlay-artist-image{
+display: none;
+position: absolute;
+width: 100%;
+height: 100%;
+background-color: rgb(47, 47, 47,0.4);
+}
+
+
+
+.outer-container-info-artist-second{
+    cursor:default;
+    margin-top:0px;
+    background-color:var(--background-color-artist-footer); ;
+    width: 100%;
+    font-family: Arial;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.outer-container-info-artist{
+    cursor:default;
+    margin-top:100px;
+    background-color:var(--background-color-artist-footer); ;
+    width: 100%;
+    font-family: Arial;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-container-info-artist{
+max-width: 1100px;
+width: 100%;;
+margin: auto;
+display: flex;
+align-items: center; /* Add this line */
+justify-content: center; /* Ensure this line is present */
+
+
+
+}
+
+.primary-container-info-artist{
+width: 100%;
+margin-left:20px;
+margin-right:20px;
+}
+.container-info-artist {
+
+display: flex;
+justify-content: start;
+align-items: flex-start;
+font-family: Arial;
+}
+.left-column-info-artist-small {
+margin-top: 0px;
+padding-top: 0px;
+flex: 1;
+max-width: 600px;
+margin-right: 20px;
+font-size: 14px;
+color:#747474;
+display:none;
+ 
+
+}
+
+
+.left-column-info-artist {
+    margin-top: 0px;
+    padding-top: 0px;
+    flex: 1;
+    max-width: 600px;
+    margin-right: 20px;
+    font-size: 14px;
+    color:#747474;
+}
+.right-column-info-artist {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+flex-basis: 125px; 
+}
+.info-row-info-artist {
+margin-bottom: 10px;
+font-size: 13px;
+color:var(--text-color-default);
+}
+.title-generic-info-artist {
+color:#747474;
+font-size: 12px;
+}
+
+.title-info-artist{
+
+
+padding-top: 0px;
+margin-top: 0px;
+font-size: 17px;
+font-weight: bold;
+color:var(--text-color-default);
+}
+
+
+
+.share-svg-container{
+background-color: transparent;
+position: absolute;
+top:0px;
+width:100%;
+}
+
+
+.outer-share-svg-container{
+display: flex;
+margin: auto;
+width:100%;
+max-width: 1100px;
+}
+
+
+.inner-share-svg-container-artist{
+width:100%;
+margin: auto;
+display: flex;
+justify-content: end;
+align-items: center;
+margin-right: 20px;
+margin-left: 20px;
+margin-top: 20px;
+position: relative;
+}
+
+
+.leggi-ancora{
+
+color:var(--primary-color);
+border-radius:5px;
+cursor:pointer;
+    font-size: 11px;
+    font-weight:600;
+
+    width:50px;
+}
+
+
+
+             
+@media (max-width: 575.98px) {
+.artist-icon-title-right{
+    display: block;
+}
+.artist-icon-title{
+    display: none;
+}
+.overlay-artist-image{
+    display: block;
+}
+.artist-name-title{
+    padding-left: 20px;
+}
+.artist-name-title{
+    color: white;
+
+}
+.share-icon-artist{
+    color: white;
+
+}
+.artist-image{
+    border-radius: 0px;
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+
+  .left-column-info-artist-small {
+        display: block;
+    }
+    .left-column-info-artist{
+        display: none;
+    }
+                   
+
+
+
+}
