@@ -11,23 +11,6 @@ La grafica del sito web è stata sviluppata ispirandosi all'interfaccia di  [iTu
 
 
 
-## Sito Web
-
-Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/MusicPlayer/Client/index.php)
-
----
-
-<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png" alt="Icona" width="100%"/>
-
-
-## Ascolto in Background
-
-|<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif0.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif1.gif" alt="Icona" width="700"/>|
-|-------------|-------------|
-
-
-
-
 ## BETA
 
 **Features:**
@@ -55,6 +38,24 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/edge.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/firefox.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/opera.png" alt="Icona" width="50"/>|   <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/chrome.png"  width="50"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/safari.png"  width="50"/>|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
+
+
+
+
+## Sito Web
+
+Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/MusicPlayer/Client/index.php)
+
+---
+
+<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png" alt="Icona" width="100%"/>
+
+
+## Ascolto in Background
+
+|<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif0.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif1.gif" alt="Icona" width="700"/>|
+|-------------|-------------|
+
 
 
 
