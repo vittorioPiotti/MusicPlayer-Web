@@ -44,18 +44,23 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
  - Page Navbar · visualizza menu interrattivo per gestire la riproduzione musicale
 
 
-## Comptaibilità Browsers
-
-| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/edge.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/firefox.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/opera.png" alt="Icona" width="50"/>|   <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/chrome.png"  width="50"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/safari.png"  width="50"/>|
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-
-
-
+## Exaples of Usage
 
 ## Ascolto in Background
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif0.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif1.gif" alt="Icona" width="700"/>|
 |-------------|-------------|
+
+
+
+
+
+
+## Comptaibilità Browsers
+
+| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/edge.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/firefox.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/opera.png" alt="Icona" width="50"/>|   <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/chrome.png"  width="50"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/safari.png"  width="50"/>|
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+
 
 
 
