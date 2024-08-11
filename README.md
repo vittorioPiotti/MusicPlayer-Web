@@ -25,7 +25,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 
 
-| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/backgroundaudio.gif"/> |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/backgroundaudio.gif"/>| 
+| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/backgroundaudio.gif" width="300"/> |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/backgroundaudio.gif"/>| 
 |-------------|-------------|
 
 
