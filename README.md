@@ -46,6 +46,9 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 ## Exaples of Usage
 
+|<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif0.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif1.gif" alt="Icona" width="700"/>|
+|-------------|-------------|
+
 ## Ascolto in Background
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif0.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif1.gif" alt="Icona" width="700"/>|
