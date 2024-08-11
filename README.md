@@ -20,6 +20,13 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png" alt="Icona" width="100%"/>
 
 
+## Listen music in background
+
+
+
+
+| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/backgroundaudio.gif"/> |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/backgroundaudio.gif"/>| 
+|-------------|-------------|
 
 
 ## BETA
