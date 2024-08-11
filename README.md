@@ -51,7 +51,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 ## Ascolto in Background
 
-|<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif4.gif" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif5.gif" alt="Icona" width="650"/>|
+|<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif4.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif5.gif" alt="Icona" width="700"/>|
 |-------------|-------------|
 
 
