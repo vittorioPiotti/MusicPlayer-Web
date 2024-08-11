@@ -20,7 +20,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/socialpreview-second.png" alt="Icona" width="100%"/>
 
 
-|<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif0.gif" alt="Icona" width="300"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif1.gif" alt="Icona" width="800"/>|
+|<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif0.gif" alt="Icona" width="270"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif1.gif" alt="Icona" width="770"/>|
 |-------------|-------------|
 
 
