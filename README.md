@@ -34,6 +34,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 - delay al primo caricamento
 - errori nella gestione dell'audio dal menu di riproduzione in background
 - errori nel caricamento deglia audio
+- errori per delay in cambio schermate
 
 
 ## Casi d'uso
