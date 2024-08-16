@@ -59,7 +59,6 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
  - Page Home · visualizza barra di ricerca e swiper slides di brani e artisti
  - Page Artist · visualizza dati artista e swiper slides di album e singoli
  - Page Music · visualizza dati di album e singoli con tracklist e controllo audio
- - Page Navbar · visualizza menu interrattivo per gestire la riproduzione musicale
 
 
 ## Examples of Usage
