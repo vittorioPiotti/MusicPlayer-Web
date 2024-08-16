@@ -119,7 +119,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 - **Descrizione**: Ottiene la lista degli artisti specificati.
 
 ### getSearchedArtists
-- **Endpoint**: [`type=home&method=getSearchedArtists&searchText=${encodeURIComponent(resultREGEXP)}&listIds=${encodeURIComponent(resultStr)}`](https://vittoriopiotti.altervista.org/MusicPlayer/Server/index.php?type=home&method=getSearchedArtists&searchText=&listIds=)
+- **Endpoint**: [`type=home&method=getSearchedArtists&searchText=${encodeURIComponent(resultREGEXP)}&listIds=${encodeURIComponent(resultStr)}`](https://vittoriopiotti.altervista.org/MusicPlayer/Server/index.php?type=home&method=getSearchedArtists&searchText=mirage&listIds=)
 - **Type**: `GET`
 - **Parametri**: `searchText=${encodeURIComponent(resultREGEXP)}`, `listIds=${encodeURIComponent(resultStr)}`
 - **Descrizione**: Cerca artisti in base al testo specificato.
