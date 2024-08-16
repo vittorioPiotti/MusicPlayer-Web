@@ -138,15 +138,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 
 
-## Coming soon
 
- - Sistema di autenticazione
- - Cloud delle canzoni da link risorsa
- - Pubblicazioni musicali pubbliche o private
- - Profilo pubblico o privato
- - Interazione con likes e views
-
-   
 
 ### Albero di Path
 
@@ -210,7 +202,15 @@ $ tree
 
 
 ```
+## Coming soon
 
+ - Sistema di autenticazione
+ - Cloud delle canzoni da link risorsa
+ - Pubblicazioni musicali pubbliche o private
+ - Profilo pubblico o privato
+ - Interazione con likes e views
+
+   
 
 ## Licenze
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
