@@ -168,5 +168,6 @@ $ tree
 | Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
 | clipboard.js             | v2.0.11    | Zeno Rocha | [MIT License](https://clipboardjs.com/) |
 | Swiper             | v11.1.4    | 2014-2024 Vladimir Kharlampidi | [MIT License](https://swiperjs.com) |
-| Suno AI             |    |  | [Termini di utilizo](https://suno.com/terms) |
+
+Canzoni generate usando Suno AI [(Termini di utilizo)](https://suno.com/terms)
 
