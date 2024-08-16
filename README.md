@@ -4,6 +4,8 @@
 
 Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaforma. 
 
+Link al Server di Gestione Hotels: [(link)](https://github.com/vittorioPiotti/Music-Player-Server)
+
 
 ## Ispirazione
 
