@@ -15,7 +15,7 @@ Link al Server di Music Player: [(link)](https://github.com/vittorioPiotti/Music
  - [Pagine Dinamiche](#pagine-dinamiche)
  - [Exaples of Usage](#examples-of-usage)
  - [Ascolto in Background](#ascolto-in-background)
- - [Comptaibilità Browsers](#compatibilità-browsers)
+ - [Browsers compatibili](#browsers-compatibili)
  - [API](#api)
  - [Albero di Path](#albero-di-path)
  - [Coming Soon](#coming-soon)
@@ -62,7 +62,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
  - Page Navbar · visualizza menu interrattivo per gestire la riproduzione musicale
 
 
-## Exaples of Usage
+## Examples of Usage
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif8.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif9.gif" alt="Icona" width="700"/>|
 |-------------|-------------|
@@ -77,7 +77,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 
 
-## Comptaibilità Browsers
+## Browsers compatibili
 
 | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/edge.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/firefox.png" alt="Icona" width="50"/> | <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/opera.png" alt="Icona" width="50"/>|   <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/chrome.png"  width="50"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/safari.png"  width="50"/>|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
