@@ -71,7 +71,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 ## API
 
 ### getMusic
-- **Endpoint**: `type=music&method=getMusic&idMusic=${elementId}`
+- **Endpoint**: [`type=music&method=getMusic&idMusic=${elementId}`](https://vittoriopiotti.altervista.org/MusicPlayer/Server/index.php?type=music&method=getMusic&idMusic=3)
 - **Type**: `GET`
 - **Parametri**: `idMusic=${elementId}`
 - **Descrizione**: Ottiene i dati di una specifica canzone.
