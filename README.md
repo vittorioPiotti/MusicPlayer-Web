@@ -10,8 +10,8 @@ Link al Server di Music Player: [(link)](https://github.com/vittorioPiotti/Music
 ## Indice :
 
  - [Ispirazione](#api)
- - [Sito Web](#albero-di-path)
- - [BETA](#licenze)
+ - [Sito Web](#sito-web)
+ - [BETA](#beta)
  - [Pagine Dinamiche](#pagine-dinamiche)
  - [Examples of Usage](#examples-of-usage)
  - [Ascolto in Background](#ascolto-in-background)
