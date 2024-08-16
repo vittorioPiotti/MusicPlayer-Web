@@ -69,7 +69,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 
 
-Ecco una tabella formattata nello stesso modo con le API descritte nel codice fornito:
+## API 
 
 | Nome API                   | URL                                                                           | Parametri                                                | Descrizione                                                                                                      |
 |----------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
