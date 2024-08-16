@@ -97,6 +97,69 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
    
 
+### Albero di Path
+
+```bash
+$ tree
+.
+└── Client
+    ├── assets
+    │   ├── audios
+    │   ├── images
+    │   └── styles
+    │       ├── animations.css
+    │       ├── artist.css
+    │       ├── colors.css
+    │       ├── footer.css
+    │       ├── global.css
+    │       ├── header.css
+    │       ├── home.css
+    │       ├── music.css
+    │       ├── mySwiper.css
+    │       └── navbar.css
+    ├── config
+    │   ├── data.php
+    │   ├── json.php
+    │   └── session.php
+    ├── dist
+    │   ├── scripts
+    │   │   ├── clipboard.min.js
+    │   │   ├── musicPlayer-bundle.min.js
+    │   │   ├── swiper-bundle.min.js
+    │   │   └── swiper-bundle.min.js.map
+    │   └── styles
+    │       ├── musicPlayer-bundle.min.css
+    │       └── swiper-bundle.min.css
+    ├── src
+    │   ├── app
+    │   │   ├── design
+    │   │   │   ├── MySwiper.js
+    │   │   │   ├── SearchBar.js
+    │   │   │   └── TimingBar.js
+    │   │   ├── layout
+    │   │   │   ├── Footer.js
+    │   │   │   ├── Header.js
+    │   │   │   ├── Main.js
+    │   │   │   └── Navbar.js
+    │   │   ├── pages
+    │   │   │   ├── Artist.js
+    │   │   │   ├── Home.js
+    │   │   │   └── Music.js
+    │   │   ├── utilities
+    │   │   │   ├── Animations.js
+    │   │   │   ├── Constants.js
+    │   │   │   │   └── WorkerManager.js
+    │   │   └── workers
+    │   │       ├── audioWorker.js
+    │   │       └── fetchWorker.js
+    │   ├── App.js
+    │   └── entry.js
+    └── index.php
+
+
+
+```
+
 
 ## Licenze
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
