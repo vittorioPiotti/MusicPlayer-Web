@@ -171,3 +171,5 @@ $ tree
 
 Canzoni generate usando Suno AI [(Termini di utilizo)](https://suno.com/terms)
 
+Immagini generate usando OpenArt [(Termini di utilizzo)](https://openart.ai/terms)
+
