@@ -12,7 +12,7 @@ Link al Server di Music Player: [(link)](https://github.com/vittorioPiotti/Music
  - [Ispirazione](#api)
  - [Sito Web](#sito-web)
  - [BETA](#beta)
- - [Pagine Dinamiche](#pagine-dinamiche)
+ - [Pagine](#pagine)
  - [Examples of Usage](#examples-of-usage)
  - [Ascolto in Background](#ascolto-in-background)
  - [Browsers compatibili](#browsers-compatibili)
@@ -54,7 +54,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 - errori per delay in cambio schermate
 
 
-## Pagine Dinamiche
+## Pagine 
 
 |<img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/home.png" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/artist.png" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/music.png" alt="Icona" />|
 |-------------|-------------|-------------|
