@@ -56,10 +56,16 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 ## Pagine Dinamiche
 
+
+
+
  - Page Home · visualizza barra di ricerca e swiper slides di brani e artisti
  - Page Artist · visualizza dati artista e swiper slides di album e singoli
  - Page Music · visualizza dati di album e singoli con tracklist e controllo audio
 
+|<img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/home.png" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/artist.png" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/music.png" alt="Icona" width="250"/>|
+|-------------|-------------|-------------|
+|1|2|3|
 
 ## Examples of Usage
 
@@ -71,6 +77,9 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif4.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif5.gif" alt="Icona" width="700"/>|
 |-------------|-------------|
 
+1. L'utente sceglie l'artista o la produzione 
+2. L'utente visualizza artista e sceglie una tra le relative produzioni
+3. l'utente visualizza i brani della produzione e sceglie quale ascoltare
 
 
 
