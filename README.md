@@ -213,7 +213,7 @@ $ tree
 > 
 > I contenuti multimediali come  audio ed immagini possono essere soggetti a una **licenza non commerciale** richiedendo l'acquisto di una licenza separata.
 >
-> Gli audio generati da Suno AI [(Termini di utilizo)](https://suno.com/terms) necessitano dell'acquisto di una licenza separata per l'uso commerciale.
+> Gli audio generati da **Suno AI** [(Termini di utilizo)](https://suno.com/terms) necessitano dell'acquisto di una licenza separata per l'uso commerciale.
 
 
 
@@ -224,7 +224,7 @@ $ tree
 | clipboard.js             | v2.0.11    | Zeno Rocha | [MIT License](https://clipboardjs.com/) |
 | Swiper             | v11.1.4    | 2014-2024 Vladimir Kharlampidi | [MIT License](https://swiperjs.com) |
 
-Canzoni generate usando Suno AI [(Termini di utilizo)](https://suno.com/terms)
+Canzoni generate usando **Suno AI** [(Termini di utilizo)](https://suno.com/terms)
 
-Immagini generate usando OpenArt [(Termini di utilizzo)](https://openart.ai/terms)
+Immagini generate usando **OpenArt** [(Termini di utilizzo)](https://openart.ai/terms)
 
