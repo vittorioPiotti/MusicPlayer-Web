@@ -50,11 +50,9 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 **Unsolved BUGs:**
 
 > [!CAUTION]
-> errori nella gestione dell'audio dal menu di riproduzione in background
-> 
-> errori nel caricamento deglia audio
-> 
-> errori per delay in cambio schermate
+> - errori nella gestione dell'audio dal menu di riproduzione in background 
+> - errori nel caricamento deglia audio 
+> - errori per delay in cambio schermate
 
 
 ## Pagine 
