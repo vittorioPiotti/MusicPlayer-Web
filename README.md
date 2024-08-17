@@ -92,7 +92,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 ### Lista API:
 
-#### API Home
+<div id="api-home"></div>
 
 | API HOME |
 |----------|
@@ -104,14 +104,16 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 
 
-#### API Music
+
+<div id="api-music"></div>
+
 
 | API MUSIC | 
 |-----------| 
 | **Name**: getMusic<br>**Endpoint**: [`type=music&method=getMusic`](https://vittoriopiotti.altervista.org/MusicPlayer/Server/index.php?type=music&method=getMusic&idMusic=3)<br>**Type**: `GET`<br>**Parametri**: `idMusic=12`<br>**Descrizione**: Ottiene i dati di una specifica canzone. |
 | **Name**: getMusicMin<br>**Endpoint**: [`type=music&method=getMusicMin`](https://vittoriopiotti.altervista.org/MusicPlayer/Server/index.php?type=music&method=getMusicMin&idMusic=2)<br>**Type**: `GET`<br>**Parametri**: `idMusic=12`<br>**Descrizione**: Ottiene dati ridotti di una specifica canzone. |
 
-#### API Artist
+<div id="api-artist"></div>
 
 
 | API ARTIST | 
