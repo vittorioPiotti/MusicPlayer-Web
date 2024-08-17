@@ -208,7 +208,7 @@ $ tree
 
 ## Licenze
 
-> [!CAUTION]
+> [!WARNING]
 > Questo software è rilasciato sotto la licenza **GPL v3** quindi l'uso, la modifica e la distribuzione del codice sorgente ne deve rispettare i termini.
 > 
 > I contenuti multimediali come  audio ed immagini possono essere soggetti a una **licenza non commerciale** richiedendo l'acquisto di una licenza separata.
