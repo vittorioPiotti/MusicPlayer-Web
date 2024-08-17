@@ -67,6 +67,12 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 |-------------|-------------|-------------|
 |1|2|3|
 
+
+1. L'utente sceglie l'artista o la produzione 
+2. L'utente visualizza artista e sceglie una tra le relative produzioni
+3. l'utente visualizza i brani della produzione e sceglie quale ascoltare
+
+
 ## Examples of Usage
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif8.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif9.gif" alt="Icona" width="700"/>|
@@ -76,10 +82,6 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 |<img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif4.gif" alt="Icona" width="250"/>| <img src="https://github.com/vittorioPiotti/Music-Player/blob/main/media/gif5.gif" alt="Icona" width="700"/>|
 |-------------|-------------|
-
-1. L'utente sceglie l'artista o la produzione 
-2. L'utente visualizza artista e sceglie una tra le relative produzioni
-3. l'utente visualizza i brani della produzione e sceglie quale ascoltare
 
 
 
