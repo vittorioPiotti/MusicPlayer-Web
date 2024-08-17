@@ -56,7 +56,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 ## Pagine Dinamiche
 
-|<img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/home.png" alt="Icona" width="33%"/>| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/artist.png" alt="Icona" width="33%"/>| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/music.png" alt="Icona" width="33%"/>|
+|<img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/home.png" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/artist.png" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/music.png" alt="Icona" />|
 |-------------|-------------|-------------|
 |1|2|3|
 
