@@ -44,7 +44,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 - Riproduzione musicale
 - Ascolto in background
-- Interfaccia e routing system
+- Switch schermate one-page
 
 **Unsolved BUGs:**
 
@@ -56,7 +56,7 @@ Sito Web Music Player: [Link al Sito](https://vittoriopiotti.altervista.org/Musi
 
 ## Pagine 
 
-|<img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/home.JPG" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/artist.JPG" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/music.JPG" alt="Icona" />|
+|<img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/home-cut-png" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/artist-cut-png" alt="Icona" />| <img src="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/music-cut-png" alt="Icona" />|
 |-------------|-------------|-------------|
 |1|2|3|
 
