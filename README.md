@@ -228,3 +228,10 @@ Canzoni generate usando **Suno AI** [(Termini di utilizo)](https://suno.com/term
 
 Immagini generate usando **OpenArt** [(Termini di utilizzo)](https://openart.ai/terms)
 
+> [!INFO]
+> Di **Bootstrap*** sono state utilizzate solo le icone
+
+
+
+
+
