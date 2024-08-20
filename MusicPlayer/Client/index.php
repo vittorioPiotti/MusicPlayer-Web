@@ -41,6 +41,13 @@ Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
     <title>MP · Home</title>
     <link rel="stylesheet" href="./dist/styles/swiper-bundle.min.css">
     <link rel="stylesheet" href="./dist/styles/musicPlayer-bundle.min.css">
+    <meta property="og:title" content="Music Player">
+    <meta property="og:description" content="Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaforma.">
+    <meta property="og:url" content="https://vittoriopiotti.altervista.org/MusicPlayer/Client/index.php">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://github.com/vittorioPiotti/Music-Player-Web/blob/main/media/socialpreview-second.png?raw=true">
+    <meta property="og:image:width" content="1280">
+    <meta property="og:image:height" content="640">
 </head>
 <body>
     <header id="header"></header>
