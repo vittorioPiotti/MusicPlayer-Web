@@ -2,7 +2,7 @@
 
 Version 3, 29 June 2007
 
-Copyright (C) 2024 MusicPlayer author Vittorio Piotti
+Copyright (C) 2024 MusicPlayerWeb author Vittorio Piotti
 <https://vittoriopiotti.altervista.org/>
 
 Everyone is permitted to copy and distribute verbatim copies of this
