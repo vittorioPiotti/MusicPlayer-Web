@@ -221,7 +221,7 @@ $ tree
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [DijkstraSolver](https://github.com/vittorioPiotti/MusicPlayer-Web) | [v1.0.0](https://github.com/vittorioPiotti/MusicPlayer-Web/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/LICENSE.md) || Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
+| [DijkstraSolver](https://github.com/vittorioPiotti/MusicPlayer-Web) | [v1.0.0](https://github.com/vittorioPiotti/MusicPlayer-Web/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/MusicPlayer-Web/blob/main/LICENSE.md) || Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
 | clipboard.js             | v2.0.11    | Zeno Rocha | [MIT License](https://clipboardjs.com/) |
 | Swiper             | v11.1.4    | 2014-2024 Vladimir Kharlampidi | [MIT License](https://swiperjs.com) |
 
