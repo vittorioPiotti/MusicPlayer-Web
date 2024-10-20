@@ -245,7 +245,7 @@ $ tree
 
 **Copyright** 2014-2024 Vladimir Kharlampidi [(GitHub page)](https://github.com/nolimits4web)
 
-**Version** [v1.0.0](https://github.com/vittorioPiotti/MusicPlayer-Web/releases/tag/v1.0.0)
+**Version** [v11.1.4](https://github.com/nolimits4web/swiper/releases/tag/v11.1.4)
 
 **License** [GPL-3.0](https://github.com/vittorioPiotti/MusicPlayer-Web/blob/main/LICENSE.md)
 
