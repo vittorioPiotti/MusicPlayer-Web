@@ -230,7 +230,7 @@ $ tree
 ### Music Player Server
 
 
-**Copyright** Music Player Web [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/) 
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/) 
 
 **Version** [v1.0.0](https://github.com/vittorioPiotti/MusicPlayer-Web/releases/tag/v1.0.0)
 
