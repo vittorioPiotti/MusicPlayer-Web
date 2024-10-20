@@ -239,6 +239,18 @@ $ tree
 
 ---
 
+### Bootstrap Icons
+
+**Copyright** 2011-2018 The Bootstrap Authors 
+
+**Version** [v1.11.0](https://blog.getbootstrap.com/2023/09/12/bootstrap-icons-1-11-0/)
+
+**License** [MIT](https://github.com/twbs/icons/blob/main/LICENSE)
+
+
+
+---
+
 
 ### Swiper
 
