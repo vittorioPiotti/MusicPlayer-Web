@@ -218,19 +218,53 @@ $ tree
 > Gli audio generati da **Suno AI** [(Termini di utilizo)](https://suno.com/terms) necessitano dell'acquisto di una licenza separata per l'uso commerciale.
 
 
-
-| Componente         | Versione  | Copyright                         | Licenza                                                       |
-|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [MusicPlayerWeb](https://github.com/vittorioPiotti/MusicPlayer-Web) | [v1.0.0](https://github.com/vittorioPiotti/MusicPlayer-Web/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/MusicPlayer-Web/blob/main/LICENSE.md) || Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
-| clipboard.js             | v2.0.11    | Zeno Rocha | [MIT License](https://clipboardjs.com/) |
-| Swiper             | v11.1.4    | 2014-2024 Vladimir Kharlampidi | [MIT License](https://swiperjs.com) |
-
-Canzoni generate usando **Suno AI** [(Termini di utilizo)](https://suno.com/terms)
-
-Immagini generate usando **OpenArt** [(Termini di utilizzo)](https://openart.ai/terms)
+> [!NOTE]
+> Canzoni generate usando **Suno AI** [(Termini di utilizo)](https://suno.com/terms)
+> 
+> Immagini generate usando **OpenArt** [(Termini di utilizzo)](https://openart.ai/terms)
 
 > [!NOTE]
 > Di **Bootstrap** sono state utilizzate solo le icone
+
+
+### Music Player Server
+
+
+**Copyright** Music Player Web [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/) 
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/MusicPlayer-Web/releases/tag/v1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/MusicPlayer-Web/blob/main/LICENSE.md)
+
+
+---
+
+
+### Swiper
+
+
+**Copyright** 2014-2024 Vladimir Kharlampidi [(GitHub page)](https://github.com/nolimits4web)
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/MusicPlayer-Web/releases/tag/v1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/MusicPlayer-Web/blob/main/LICENSE.md)
+
+
+---
+
+
+### Clipboard JS
+
+
+**Copyright** Music Player Web [(GitHub page)](https://github.com/zenorocha)
+
+**Version** [v2.0.11](https://github.com/zenorocha/clipboard.js/releases/tag/v2.0.11)
+
+**License** [MIT](https://clipboardjs.com/)
+
+
+
+
 
 
 
