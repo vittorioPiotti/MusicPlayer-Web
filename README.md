@@ -6,9 +6,7 @@ Sito di riproduzione musicale per ascoltare le canzoni caricate sulla piattaform
 
 Link al Server di Music Player: [(link)](https://github.com/vittorioPiotti/Music-Player-Server)
 
-#### Support Me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
+---
 
 ## Indice :
 
